@@ -11,27 +11,27 @@ class App extends Component {
         <section>
           <div className='card'>
             <img src={`${import.meta.env.BASE_URL}1.jpeg`} alt='' />
-            <label>Project 1</label>
+            <label>Project 01</label>
           </div>
           <div className='card'>
             <img src={`${import.meta.env.BASE_URL}2.jpeg`} alt='' />
-            <label>Project 2</label>
+            <label>Project 02</label>
           </div>
           <div className='card'>
             <img src={`${import.meta.env.BASE_URL}3.jpeg`} alt='' />
-            <label>Project 3</label>
+            <label>Project 03</label>
           </div>
           <div className='card'>
             <img src={`${import.meta.env.BASE_URL}4.jpeg`} alt='' />
-            <label>Project 4</label>
+            <label>Project 04</label>
           </div>
           <div className='card'>
             <img src={`${import.meta.env.BASE_URL}5.jpeg`} alt='' />
-            <label>Project 5</label>
+            <label>Project 05</label>
           </div>
           <div className='card'>
             <img src={`${import.meta.env.BASE_URL}6.jpeg`} alt='' />
-            <label>Project 6</label>
+            <label>Project 06</label>
           </div>
         </section>
         <footer>Copyright @ 2025. All rights reserved.</footer>
